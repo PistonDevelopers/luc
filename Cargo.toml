@@ -1,0 +1,16 @@
+[package]
+name = "luc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sven Nilsen <bvssvni@gmail.com>"]
+keywords = ["multimedia", "creative", "productivity", "dyon", "piston"]
+description = "A multimedia tool for creative minds"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/pistondevelopers/luc.git"
+homepage = "https://github.com/pistondevelopers/luc"
+exclude = ["images/*"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
